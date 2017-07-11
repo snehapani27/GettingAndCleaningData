@@ -1,6 +1,4 @@
 # GettingAndCleaningData
-Getting And Cleaning Data
-GettingAndCleaningData
 ======================
 
 Repository for Cousera: https://class.coursera.org/getdata-008
